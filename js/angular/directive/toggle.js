@@ -97,4 +97,4 @@ function($timeout, $ionicConfig) {
     }
 
   };
-}]);
+}]); 
